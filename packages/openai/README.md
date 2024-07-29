@@ -1,6 +1,6 @@
-# Vercel AI SDK - OpenAI Provider
+# KhulnaSoft AI SDK - OpenAI Provider
 
-The **[OpenAI provider](https://sdk.vercel.ai/providers/ai-sdk-providers/openai)** for the [Vercel AI SDK](https://sdk.vercel.ai/docs)
+The **[OpenAI provider](https://sdk.vercel.ai/providers/ai-sdk-providers/openai)** for the [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs)
 contains language model support for the OpenAI chat and completion APIs and embedding model support for the OpenAI embeddings API.
 
 ## Setup

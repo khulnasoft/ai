@@ -1,1 +1,1 @@
-# Vercel AI SDK - Provider Implementation Utilities
+# KhulnaSoft AI SDK - Provider Implementation Utilities

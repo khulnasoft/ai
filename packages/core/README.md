@@ -1,10 +1,10 @@
 ![hero illustration](./assets/hero.gif)
 
-# Vercel AI SDK
+# KhulnaSoft AI SDK
 
-The [Vercel AI SDK](https://sdk.vercel.ai/docs) is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
+The [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs) is a TypeScript toolkit designed to help you build AI-powered applications using popular frameworks like Next.js, React, Svelte, Vue and runtimes like Node.js.
 
-To learn more about how to use the Vercel AI SDK, check out our [API Reference](https://sdk.vercel.ai/docs/reference) and [Documentation](https://sdk.vercel.ai/docs).
+To learn more about how to use the KhulnaSoft AI SDK, check out our [API Reference](https://ai-sdk.khulnasoft.com/docs/reference) and [Documentation](https://ai-sdk.khulnasoft.com/docs).
 
 ## Installation
 
@@ -18,7 +18,7 @@ npm install ai
 
 ### AI SDK Core
 
-The [AI SDK Core](https://sdk.vercel.ai/docs/ai-sdk-core/overview) module provides a unified API to interact with model providers like [OpenAI](https://sdk.vercel.ai/providers/ai-sdk-providers/openai), [Anthropic](https://sdk.vercel.ai/providers/ai-sdk-providers/anthropic), [Google](https://sdk.vercel.ai/providers/ai-sdk-providers/google-generative-ai), and more.
+The [AI SDK Core](https://ai-sdk.khulnasoft.com/docs/ai-sdk-core/overview) module provides a unified API to interact with model providers like [OpenAI](https://sdk.vercel.ai/providers/ai-sdk-providers/openai), [Anthropic](https://sdk.vercel.ai/providers/ai-sdk-providers/anthropic), [Google](https://sdk.vercel.ai/providers/ai-sdk-providers/google-generative-ai), and more.
 
 You will then install the model provider of your choice.
 
@@ -47,7 +47,7 @@ main();
 
 ### AI SDK UI
 
-The [AI SDK UI](https://sdk.vercel.ai/docs/ai-sdk-ui/overview) module provides a set of hooks that help you build chatbots and generative user interfaces. These hooks are framework agnostic, so they can be used in Next.js, React, Svelte, Vue, and SolidJS.
+The [AI SDK UI](https://ai-sdk.khulnasoft.com/docs/ai-sdk-ui/overview) module provides a set of hooks that help you build chatbots and generative user interfaces. These hooks are framework agnostic, so they can be used in Next.js, React, Svelte, Vue, and SolidJS.
 
 ###### @/app/page.tsx (Next.js App Router)
 
@@ -103,7 +103,7 @@ export async function POST(req: Request) {
 
 ### AI SDK RSC
 
-The [AI SDK RSC](https://sdk.vercel.ai/docs/ai-sdk-rsc/overview) module provides an alternative API that also helps you build chatbots and generative user interfaces for frameworks that support [React Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components) (RSC).
+The [AI SDK RSC](https://ai-sdk.khulnasoft.com/docs/ai-sdk-rsc/overview) module provides an alternative API that also helps you build chatbots and generative user interfaces for frameworks that support [React Server Components](https://nextjs.org/docs/app/building-your-application/rendering/server-components) (RSC).
 
 This API leverages the benefits of [Streaming](https://nextjs.org/docs/app/building-your-application/rendering/server-components#streaming) and [Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations) offered by RSC, thus improving the developer experience of managing states between server/client and building generative user interfaces.
 
@@ -209,12 +209,12 @@ We've built [templates](https://vercel.com/templates?type=ai) that include AI SD
 
 ## Community
 
-The Vercel AI SDK community can be found on [GitHub Discussions](https://github.com/vercel/ai/discussions) where you can ask questions, voice ideas, and share your projects with other people.
+The KhulnaSoft AI SDK community can be found on [GitHub Discussions](https://github.com/khulnasoft/ai/discussions) where you can ask questions, voice ideas, and share your projects with other people.
 
 ## Contributing
 
-Contributions to the Vercel AI SDK are welcome and highly appreciated. However, before you jump right into it, we would like you to review our [Contribution Guidelines](https://github.com/vercel/ai/blob/main/CONTRIBUTING.md) to make sure you have smooth experience contributing to Vercel AI SDK.
+Contributions to the KhulnaSoft AI SDK are welcome and highly appreciated. However, before you jump right into it, we would like you to review our [Contribution Guidelines](https://github.com/khulnasoft/ai/blob/main/CONTRIBUTING.md) to make sure you have smooth experience contributing to KhulnaSoft AI SDK.
 
 ## Authors
 
-This library is created by [Vercel](https://vercel.com) and [Next.js](https://nextjs.org) team members, with contributions from the [Open Source Community](https://github.com/vercel/ai/graphs/contributors).
+This library is created by [Vercel](https://vercel.com) and [Next.js](https://nextjs.org) team members, with contributions from the [Open Source Community](https://github.com/khulnasoft/ai/graphs/contributors).

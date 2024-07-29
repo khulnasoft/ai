@@ -169,7 +169,7 @@ Text content of the message.
   tool_call_id?: string;
 
   /**
-@deprecated Use AI SDK RSC instead: https://sdk.vercel.ai/docs/ai-sdk-rsc
+@deprecated Use AI SDK RSC instead: https://ai-sdk.khulnasoft.com/docs/ai-sdk-rsc
  */
   ui?: string | JSX.Element | JSX.Element[] | null | undefined;
 

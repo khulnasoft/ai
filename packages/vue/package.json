@@ -25,7 +25,7 @@
     }
   },
   "dependencies": {
-    "@ai-sdk/provider-utils": "1.0.5",
+    "@ai-sdk/provider-utils": "workspace:*",
     "@ai-sdk/ui-utils": "0.0.20",
     "swrv": "1.0.4"
   },
@@ -34,10 +34,10 @@
     "@testing-library/user-event": "^14.5.1",
     "@testing-library/vue": "^8.0.1",
     "@types/node": "^18",
-    "@vercel/ai-tsconfig": "workspace:*",
+    "@khulnasoft/ai-tsconfig": "workspace:*",
     "@vitejs/plugin-vue": "4.5.0",
     "eslint": "^7.32.0",
-    "eslint-config-vercel-ai": "workspace:*",
+    "eslint-config-khulnasoft-ai": "workspace:*",
     "jsdom": "^24.0.0",
     "msw": "2.3.1",
     "tsup": "^7.2.0",
@@ -57,13 +57,13 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://sdk.vercel.ai/docs",
+  "homepage": "https://ai-sdk.khulnasoft.com/docs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/ai.git"
+    "url": "git+https://github.com/khulnasoft/ai.git"
   },
   "bugs": {
-    "url": "https://github.com/vercel/ai/issues"
+    "url": "https://github.com/khulnasoft/ai/issues"
   },
   "keywords": [
     "ai",

@@ -1,1 +1,1 @@
-# Vercel AI SDK - Provider Language Model Specification
+# KhulnaSoft AI SDK - Provider Language Model Specification
