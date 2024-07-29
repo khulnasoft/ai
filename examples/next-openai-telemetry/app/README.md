@@ -1,6 +1,6 @@
-# Vercel AI SDK, Next.js, and OpenAI Chat Telemetry Example
+# KhulnaSoft AI SDK, Next.js, and OpenAI Chat Telemetry Example
 
-This example shows how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot.
+This example shows how to use the [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs) with [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot.
 
 ## Deploy your own
 
@@ -13,15 +13,15 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
 ```bash
-npx create-next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai next-openai-app
+npx create-next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai next-openai-app
 ```
 
 ```bash
-yarn create next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai next-openai-app
+yarn create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai next-openai-app
 ```
 
 ```bash
-pnpm create next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai next-openai-app
+pnpm create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai next-openai-app
 ```
 
 To run the example locally you need to:
@@ -34,9 +34,9 @@ To run the example locally you need to:
 
 ## Learn More
 
-To learn more about OpenAI, Next.js, and the Vercel AI SDK take a look at the following resources:
+To learn more about OpenAI, Next.js, and the KhulnaSoft AI SDK take a look at the following resources:
 
-- [Vercel AI SDK docs](https://sdk.vercel.ai/docs)
+- [KhulnaSoft AI SDK docs](https://ai-sdk.khulnasoft.com/docs)
 - [Vercel AI Playground](https://play.vercel.ai)
 - [OpenAI Documentation](https://platform.openai.com/docs) - learn about OpenAI features and API.
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.

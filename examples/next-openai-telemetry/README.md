@@ -1,6 +1,6 @@
-# Vercel AI SDK, Next.js, and OpenAI Chat Example with Telemetry
+# KhulnaSoft AI SDK, Next.js, and OpenAI Chat Example with Telemetry
 
-This example shows how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot with [OpenTelemetry support](https://sdk.vercel.ai/docs/ai-sdk-core/telemetry).
+This example shows how to use the [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs) with [Next.js](https://nextjs.org/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot with [OpenTelemetry support](https://ai-sdk.khulnasoft.com/docs/ai-sdk-core/telemetry).
 
 ## Deploy your own
 
@@ -13,15 +13,15 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
 ```bash
-npx create-next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
+npx create-next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
 ```
 
 ```bash
-yarn create next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
+yarn create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
 ```
 
 ```bash
-pnpm create next-app --example https://github.com/vercel/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
+pnpm create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-openai-telemetry next-openai-telemetry-app
 ```
 
 To run the example locally you need to:
@@ -34,10 +34,10 @@ To run the example locally you need to:
 
 ## Learn More
 
-To learn more about OpenAI, Next.js, and the Vercel AI SDK take a look at the following resources:
+To learn more about OpenAI, Next.js, and the KhulnaSoft AI SDK take a look at the following resources:
 
-- [Vercel AI SDK docs](https://sdk.vercel.ai/docs)
-- [Vercel AI SDK telemetry support](https://sdk.vercel.ai/docs/ai-sdk-core/telemetry)
+- [KhulnaSoft AI SDK docs](https://ai-sdk.khulnasoft.com/docs)
+- [KhulnaSoft AI SDK telemetry support](https://ai-sdk.khulnasoft.com/docs/ai-sdk-core/telemetry)
 - [Vercel AI Playground](https://play.vercel.ai)
 - [OpenAI Documentation](https://platform.openai.com/docs) - learn about OpenAI features and API.
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.

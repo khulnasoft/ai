@@ -1,6 +1,6 @@
-# Vercel AI SDK, Next.js, and Inkeep Chat Example
+# KhulnaSoft AI SDK, Next.js, and Inkeep Chat Example
 
-This example shows how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Next.js](https://nextjs.org/) and [Inkeep's Managed AI Chat Service](https://docs.inkeep.com/claude/reference/getting-started-with-the-api) to create an LLM-powered chat bot on your content.
+This example shows how to use the [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs) with [Next.js](https://nextjs.org/) and [Inkeep's Managed AI Chat Service](https://docs.inkeep.com/claude/reference/getting-started-with-the-api) to create an LLM-powered chat bot on your content.
 
 ## Deploy your own
 
@@ -13,15 +13,15 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
 ```bash
-npx create-next-app --example https://github.com/vercel/ai/tree/main/examples/next-inkeep next-inkeep-app
+npx create-next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-inkeep next-inkeep-app
 ```
 
 ```bash
-yarn create next-app --example https://github.com/vercel/ai/tree/main/examples/next-inkeep next-inkeep-app
+yarn create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-inkeep next-inkeep-app
 ```
 
 ```bash
-pnpm create next-app --example https://github.com/vercel/ai/tree/main/examples/next-inkeep next-inkeep-app
+pnpm create next-app --example https://github.com/khulnasoft/ai/tree/main/examples/next-inkeep next-inkeep-app
 ```
 
 To run the example locally you need to:
@@ -33,9 +33,9 @@ To run the example locally you need to:
 
 ## Learn More
 
-To learn more about OpenAI, Next.js, and the Vercel AI SDK take a look at the following resources:
+To learn more about OpenAI, Next.js, and the KhulnaSoft AI SDK take a look at the following resources:
 
-- [Vercel AI SDK docs](https://sdk.vercel.ai/docs)
+- [KhulnaSoft AI SDK docs](https://ai-sdk.khulnasoft.com/docs)
 - [Vercel AI Playground](https://play.vercel.ai)
 - [Inkeep Documentation](https://docs.inkeep.com) - learn about Inkeep features and API.
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.

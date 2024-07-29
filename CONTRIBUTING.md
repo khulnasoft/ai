@@ -1,4 +1,4 @@
-# Contributing to the Vercel AI SDK
+# Contributing to the KhulnaSoft AI SDK
 
 We deeply appreciate your interest in contributing to our repository! Whether you're reporting bugs, suggesting enhancements, improving docs, or submitting pull requests, your contributions help improve the project for everyone.
 
@@ -20,7 +20,7 @@ We're always looking for suggestions to make our project better. If you have an 
 ## Improving Documentation
 
 Documentation is crucial for understanding and using our project effectively.
-You can find the content of our docs under [`content`](https://github.com/vercel/ai/tree/main/content).
+You can find the content of our docs under [`content`](https://github.com/khulnasoft/ai/tree/main/content).
 
 To fix smaller typos, you can edit the code directly in GitHub or use Github.dev (press `.` in Github).
 

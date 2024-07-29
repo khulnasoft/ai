@@ -395,7 +395,7 @@ There are two ways to send attachments with a message, either by providing a `Fi
 
 By using `FileList`, you can send multiple files as attachments along with a message using the file input element. The `useChat` hook will automatically convert them into data URLs and send them to the AI provider.
 
-> **Note:** Currently, only `image/*` and `text/*` content types get automatically converted into [multi-modal content parts](https://sdk.vercel.ai/docs/foundations/prompts#multi-modal-messages). You will need to handle other content types manually.
+> **Note:** Currently, only `image/*` and `text/*` content types get automatically converted into [multi-modal content parts](https://ai-sdk.khulnasoft.com/docs/foundations/prompts#multi-modal-messages). You will need to handle other content types manually.
 
 ```tsx filename="app/page.tsx"
 'use client';
@@ -477,7 +477,7 @@ export default function Page() {
 
 You can also send URLs as attachments along with a message. This can be useful for sending links to external resources or media content.
 
-> **Note:** The URL can also be a data URL, which is a base64-encoded string that represents the content of a file. Currently, only `image/*` content types get automatically converted into [multi-modal content parts](https://sdk.vercel.ai/docs/foundations/prompts#multi-modal-messages). You will need to handle other content types manually.
+> **Note:** The URL can also be a data URL, which is a base64-encoded string that represents the content of a file. Currently, only `image/*` content types get automatically converted into [multi-modal content parts](https://ai-sdk.khulnasoft.com/docs/foundations/prompts#multi-modal-messages). You will need to handle other content types manually.
 
 ```tsx filename="app/page.tsx"
 'use client';

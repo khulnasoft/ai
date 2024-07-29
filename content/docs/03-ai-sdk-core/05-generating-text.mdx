@@ -1,6 +1,6 @@
 ---
 title: Generating Text
-description: Learn how to generate text with the Vercel AI SDK.
+description: Learn how to generate text with the KhulnaSoft AI SDK.
 ---
 
 # Generating and Streaming Text
@@ -8,7 +8,7 @@ description: Learn how to generate text with the Vercel AI SDK.
 Large language models (LLMs) can generate text in response to a prompt, which can contain instructions and information to process.
 For example, you can ask a model to come up with a recipe, draft an email, or summarize a document.
 
-The Vercel AI SDK Core provides two functions to generate text and stream it from LLMs:
+The KhulnaSoft AI SDK Core provides two functions to generate text and stream it from LLMs:
 
 - [`generateText`](#generatetext): Generates text for a given prompt and model.
 - [`streamText`](#streamtext): Streams text from a given prompt and model.
@@ -45,7 +45,7 @@ const { text } = await generateText({
 
 Depending on your model and prompt, it can take a large language model (LLM) up to a minute to finish generating it's response. This delay can be unacceptable for interactive use cases such as chatbots or real-time applications, where users expect immediate responses.
 
-Vercel AI SDK Core provides the [`streamText`](/docs/reference/ai-sdk-core/stream-text) function which simplifies streaming text from LLMs.
+KhulnaSoft AI SDK Core provides the [`streamText`](/docs/reference/ai-sdk-core/stream-text) function which simplifies streaming text from LLMs.
 
 ```ts
 import { streamText } from 'ai';

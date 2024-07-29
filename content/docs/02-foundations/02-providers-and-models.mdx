@@ -1,6 +1,6 @@
 ---
 title: Providers and Models
-description: Learn about the providers and models available in the Vercel AI SDK.
+description: Learn about the providers and models available in the KhulnaSoft AI SDK.
 ---
 
 # Providers and Models
@@ -9,7 +9,7 @@ Companies such as OpenAI and Anthropic (providers) offer access to a range of la
 
 Each provider typically has its own unique method for interfacing with their models, complicating the process of switching providers and increasing the risk of vendor lock-in.
 
-To solve these challenges, Vercel AI SDK Core offers a standardized approach to interacting with LLMs through a [language model specification](https://github.com/vercel/ai/tree/main/packages/provider/src/language-model/v1) that abstracts differences between providers. This unified interface allows you to switch between providers with ease while using the same API for all providers.
+To solve these challenges, KhulnaSoft AI SDK Core offers a standardized approach to interacting with LLMs through a [language model specification](https://github.com/khulnasoft/ai/tree/main/packages/provider/src/language-model/v1) that abstracts differences between providers. This unified interface allows you to switch between providers with ease while using the same API for all providers.
 
 Here is an overview of the AI SDK Provider Architecture:
 
@@ -17,7 +17,7 @@ Here is an overview of the AI SDK Provider Architecture:
 
 ## AI SDK Providers
 
-Vercel AI SDK comes with several providers that you can use to interact with different language models:
+KhulnaSoft AI SDK comes with several providers that you can use to interact with different language models:
 
 - [OpenAI Provider](/providers/ai-sdk-providers/openai) (`@ai-sdk/openai`)
 - [Azure OpenAI Provider](/providers/ai-sdk-providers/azure) (`@ai-sdk/azure`)
@@ -34,7 +34,7 @@ You can also use the OpenAI provider with OpenAI-compatible APIs:
 - [Perplexity](/providers/ai-sdk-providers/perplexity)
 - [Fireworks](/providers/ai-sdk-providers/fireworks)
 
-Our [language model specification](https://github.com/vercel/ai/tree/main/packages/provider/src/language-model/v1) is published as an open-source package, which you can use to create [custom providers](/providers/community-providers/custom-providers).
+Our [language model specification](https://github.com/khulnasoft/ai/tree/main/packages/provider/src/language-model/v1) is published as an open-source package, which you can use to create [custom providers](/providers/community-providers/custom-providers).
 
 The open-source community has created the following providers:
 

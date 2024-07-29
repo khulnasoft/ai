@@ -1,6 +1,6 @@
-# Vercel AI SDK, Svelte, and OpenAI Chat Example
+# KhulnaSoft AI SDK, Svelte, and OpenAI Chat Example
 
-This example shows how to use the [Vercel AI SDK](https://sdk.vercel.ai/docs) with [Svelte](https://svelte.dev/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot.
+This example shows how to use the [KhulnaSoft AI SDK](https://ai-sdk.khulnasoft.com/docs) with [Svelte](https://svelte.dev/) and [OpenAI](https://openai.com) to create a ChatGPT-like AI-powered streaming chat bot.
 
 ## Deploy your own
 
